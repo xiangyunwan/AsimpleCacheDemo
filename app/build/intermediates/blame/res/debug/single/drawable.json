@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_test.png",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\drawable\\img_test.png"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    }
+]

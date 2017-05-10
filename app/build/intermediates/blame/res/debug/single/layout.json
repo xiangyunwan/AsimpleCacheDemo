@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_file.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_file.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonobject.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_jsonobject.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_object.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_object.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_drawable.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_drawable.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_jsonarray.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_jsonarray.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_bitmap.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_bitmap.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\github-source\\AsimpleCacheDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_save_string.xml",
+        "source": "D:\\github-source\\AsimpleCacheDemo\\app\\src\\main\\res\\layout\\activity_save_string.xml"
+    }
+]
